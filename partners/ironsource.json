@@ -1,0 +1,13 @@
+{
+  "company_name": "ironSource",
+  "company_address": "ironSource, 121 Menachem Begin St., Tel Aviv, Israel",
+  "company_domain": "ironSource.com",
+  "skadnetwork_ids": [
+    {
+      "entity_name": "ironSource Mobile Ltd",
+      "entity_domain": "ironSource.com",
+      "skadnetwork_id": "su67r6k2v3.skadnetwork",
+      "creation_date": "2020-09-25T00:00:00Z"
+    }
+  ]
+}

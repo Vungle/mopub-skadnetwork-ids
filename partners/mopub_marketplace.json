@@ -1,0 +1,432 @@
+{
+  "company_name": "MoPub",
+  "company_domain": "mopub.com",
+  "company_address": "1355 Market St #900, San Francisco, CA 94103",
+  "skadnetwork_ids": [
+    {
+      "skadnetwork_id": "22mmun2rn5.skadnetwork",
+      "entity_name": "ByteDance Pte. Ltd.",
+      "entity_domain": "bytedance.com"
+    },
+    {
+      "skadnetwork_id": "23zd986j2c.skadnetwork",
+      "entity_name": "MIllMobile BV",
+      "entity_domain": "adgoji.com"
+    },
+    {
+      "skadnetwork_id": "2u9pt9hc89.skadnetwork",
+      "entity_name": "Remerge GmbH",
+      "entity_domain": "remerge.io"
+    },
+    {
+      "skadnetwork_id": "3l6bd9hu43.skadnetwork",
+      "entity_name": "MobUpps",
+      "entity_domain": "mobupps.com"
+    },
+    {
+      "skadnetwork_id": "3qcr597p9d.skadnetwork",
+      "entity_name": "Zucks, Inc.",
+      "entity_domain": "zucks.co.jp"
+    },
+    {
+      "skadnetwork_id": "3qy4746246.skadnetwork",
+      "entity_name": "Bigabid Media LTD",
+      "entity_domain": "bigabid.com"
+    },
+    {
+      "skadnetwork_id": "3rd42ekr43.skadnetwork",
+      "entity_name": "YouAppi",
+      "entity_domain": "youappi.com"
+    },
+    {
+      "skadnetwork_id": "3sh42y64q3.skadnetwork",
+      "entity_name": "Centro Inc.",
+      "entity_domain": "centro.net"
+    },
+    {
+      "skadnetwork_id": "4468km3ulz.skadnetwork",
+      "entity_name": "Realtime Technologies GmbH",
+      "entity_domain": "kayzen.io"
+    },
+    {
+      "skadnetwork_id": "44jx6755aq.skadnetwork",
+      "entity_name": "O.P Vision LTD",
+      "entity_domain": "persona.ly"
+    },
+    {
+      "skadnetwork_id": "44n7hlldy6.skadnetwork",
+      "entity_name": "Spyke Media",
+      "entity_domain": "spykemedia.com"
+    },
+    {
+      "skadnetwork_id": "47vhws6wlr.skadnetwork",
+      "entity_name": "MicroAd, Inc.",
+      "entity_domain": "microad.co.jp"
+    },
+    {
+      "skadnetwork_id": "4fzdc2evr5.skadnetwork",
+      "entity_name": "Aarki, Inc.",
+      "entity_domain": "aarki.com"
+    },
+    {
+      "skadnetwork_id": "523jb4fst2.skadnetwork",
+      "entity_name": "BidsOpt Pte. Ltd",
+      "entity_domain": "bidsopt.com"
+    },
+    {
+      "skadnetwork_id": "52fl2v3hgk.skadnetwork",
+      "entity_name": "Curate Mobile Ltd.",
+      "entity_domain": "curatemobile.com"
+    },
+    {
+      "skadnetwork_id": "54nzkqm89y.skadnetwork",
+      "entity_name": "IGAWorks",
+      "entity_domain": "igaworks.com"
+    },
+    {
+      "skadnetwork_id": "578prtvx9j.skadnetwork",
+      "entity_name": "Bulbit Inc. (Adways)",
+      "entity_domain": "adways.net"
+    },
+    {
+      "skadnetwork_id": "5a6flpkh64.skadnetwork",
+      "entity_name": "Affle International Pte Ltd",
+      "entity_domain": "affle.com"
+    },
+    {
+      "skadnetwork_id": "5l3tpt7t6e.skadnetwork",
+      "entity_name": "StartApp Inc.",
+      "entity_domain": "startapp.com"
+    },
+    {
+      "skadnetwork_id": "5lm9lj6jb7.skadnetwork",
+      "entity_name": "LoopMe Ltd",
+      "entity_domain": "loopme.com"
+    },
+    {
+      "skadnetwork_id": "5mv394q32t.skadnetwork",
+      "entity_name": "BidsOpt Pte. Ltd",
+      "entity_domain": "bidsopt.com"
+    },
+    {
+      "skadnetwork_id": "5mv394q32t.skadnetwork",
+      "entity_name": "Zink Ads",
+      "entity_domain": "zinkads.com"
+    },
+    {
+      "skadnetwork_id": "6g9af3uyq4.skadnetwork",
+      "entity_name": "Curate Mobile Ltd.",
+      "entity_domain": "curatemobile.com"
+    },
+    {
+      "skadnetwork_id": "6p4ks3rnbw.skadnetwork",
+      "entity_name": "Z2A",
+      "entity_domain": "z2adigital.com"
+    },
+    {
+      "skadnetwork_id": "6v7lgmsu45.skadnetwork",
+      "entity_name": "Mapendo",
+      "entity_domain": "mapendo.co"
+    },
+    {
+      "skadnetwork_id": "737z793b9f.skadnetwork",
+      "entity_name": "Appgrowth, Inc.",
+      "entity_domain": "appgrowth.com"
+    },
+    {
+      "skadnetwork_id": "7953jerfzd.skadnetwork",
+      "entity_name": "MoPub",
+      "entity_domain": "mopub.com"
+    },
+    {
+      "skadnetwork_id": "7rz58n8ntl.skadnetwork",
+      "entity_name": "Mediasmart Mobile S.",
+      "entity_domain": "mediasmart.io"
+    },
+    {
+      "skadnetwork_id": "7ug5zh24hu.skadnetwork",
+      "entity_name": "Liftoff Mobile Inc.",
+      "entity_domain": "liftoff.io"
+    },
+    {
+      "skadnetwork_id": "89z7zv988g.skadnetwork",
+      "entity_name": "Wider Planet",
+      "entity_domain": "widerplanet.com"
+    },
+    {
+      "skadnetwork_id": "8s468mfl3y.skadnetwork",
+      "entity_name": "RTB Marketing & Tech Services Limited",
+      "entity_domain": "rtbhouse.com"
+    },
+    {
+      "skadnetwork_id": "97r2b46745.skadnetwork",
+      "entity_name": "Zemanta, Inc.",
+      "entity_domain": "zemanta.com"
+    },
+    {
+      "skadnetwork_id": "9b89h5y424.skadnetwork",
+      "entity_name": "Front Porch",
+      "entity_domain": "simplepath.com"
+    },
+    {
+      "skadnetwork_id": "9nlqeag3gk.skadnetwork",
+      "entity_name": "Edge 226",
+      "entity_domain": "edge226.com"
+    },
+    {
+      "skadnetwork_id": "9rd848q2bz.skadnetwork",
+      "entity_name": "Manage.com Group, Inc.",
+      "entity_domain": "manage.com"
+    },
+    {
+      "skadnetwork_id": "9t245vhmpl.skadnetwork",
+      "entity_name": "Moloco Inc",
+      "entity_domain": "molocoads.com"
+    },
+    {
+      "skadnetwork_id": "9yg77x724h.skadnetwork",
+      "entity_name": "Twitter, Inc.",
+      "entity_domain": "twitter.com"
+    },
+    {
+      "skadnetwork_id": "av6w8kgt66.skadnetwork",
+      "entity_name": "ScaleMonk Inc.",
+      "entity_domain": "scalemonk.com"
+    },
+    {
+      "skadnetwork_id": "b53axzn49s.skadnetwork",
+      "entity_name": "Mobileadz PTE Ltd",
+      "entity_domain": "adzmedia.com"
+    },
+    {
+      "skadnetwork_id": "bvpn9ufa9b.skadnetwork",
+      "entity_name": "Unity Technologies SF",
+      "entity_domain": "unity3d.com"
+    },
+    {
+      "skadnetwork_id": "c6k4g5qg8m.skadnetwork",
+      "entity_name": "BeeswaxIO Corporation",
+      "entity_domain": "beeswax.com"
+    },
+    {
+      "skadnetwork_id": "cg4yq2srnc.skadnetwork",
+      "entity_name": "AdTheorent, Inc.",
+      "entity_domain": "adtheorent.com"
+    },
+    {
+      "skadnetwork_id": "cj5566h2ga.skadnetwork",
+      "entity_name": "EngageBDR",
+      "entity_domain": "engagebdr.com"
+    },
+    {
+      "skadnetwork_id": "e5fvkxwrpn.skadnetwork",
+      "entity_name": "Verizon",
+      "entity_domain": "Verizonmedia.com"
+    },
+    {
+      "skadnetwork_id": "f38h382jlk.skadnetwork",
+      "entity_name": "Chartboost, Inc.",
+      "entity_domain": "chartboost.com"
+    },
+    {
+      "skadnetwork_id": "f73kdq92p3.skadnetwork",
+      "entity_name": "Spotad LTD",
+      "entity_domain": "spotad.co"
+    },
+    {
+      "skadnetwork_id": "g2y4y55b64.skadnetwork",
+      "entity_name": "GlobalWide Media Ltd",
+      "entity_domain": "globalwidemedia.com"
+    },
+    {
+      "skadnetwork_id": "ggvn48r87g.skadnetwork",
+      "entity_name": "Blis Media",
+      "entity_domain": "blis.com"
+    },
+    {
+      "skadnetwork_id": "gvmwg8q7h5.skadnetwork",
+      "entity_name": "TnK Factory Corp",
+      "entity_domain": "tnkfactory.com"
+    },
+    {
+      "skadnetwork_id": "hs6bdukanm.skadnetwork",
+      "entity_name": "Criteo SA",
+      "entity_domain": "criteo.com"
+    },
+    {
+      "skadnetwork_id": "kbd757ywx3.skadnetwork",
+      "entity_name": "MobVista International Technology Limited",
+      "entity_domain": "mobvista.com"
+    },
+    {
+      "skadnetwork_id": "kbmxgpxpgc.skadnetwork",
+      "entity_name": "Stack Adapt",
+      "entity_domain": "stackadapt.com"
+    },
+    {
+      "skadnetwork_id": "klf5c3l5u5.skadnetwork",
+      "entity_name": "Sift Media, Inc.",
+      "entity_domain": "sift.co"
+    },
+    {
+      "skadnetwork_id": "m5mvw97r93.skadnetwork",
+      "entity_name": "Curate Mobile Ltd.",
+      "entity_domain": "curatemobile.com"
+    },
+    {
+      "skadnetwork_id": "m8dbw4sv7c.skadnetwork",
+      "entity_name": "Dataseat Ltd",
+      "entity_domain": "dataseat.com"
+    },
+    {
+      "skadnetwork_id": "mlmmfzh3r3.skadnetwork",
+      "entity_name": "Triapodi Ltd",
+      "entity_domain": "appreciate.mobi"
+    },
+    {
+      "skadnetwork_id": "mls7yz5dvl.skadnetwork",
+      "entity_name": "Bucksense Inc",
+      "entity_domain": "bucksense.com"
+    },
+    {
+      "skadnetwork_id": "mp6xlyr22a.skadnetwork",
+      "entity_name": "ClearPier, Inc.",
+      "entity_domain": "clearpier.com"
+    },
+    {
+      "skadnetwork_id": "mtkv5xtk9e.skadnetwork",
+      "entity_name": "Maxpoint Interactive, Inc.",
+      "entity_domain": "valassis.com"
+    },
+    {
+      "skadnetwork_id": "n66cz3y3bx.skadnetwork",
+      "entity_name": "Twitter, Inc.",
+      "entity_domain": "twitter.com"
+    },
+    {
+      "skadnetwork_id": "n6fk4nfna4.skadnetwork",
+      "entity_name": "Mediamath",
+      "entity_domain": "mediamath.com"
+    },
+    {
+      "skadnetwork_id": "n9x2a789qt.skadnetwork",
+      "entity_name": "MyTarget",
+      "entity_domain": "my.com"
+    },
+    {
+      "skadnetwork_id": "nzq8sh4pbs.skadnetwork",
+      "entity_name": "Mobileadz PTE Ltd",
+      "entity_domain": "adzmedia.com"
+    },
+    {
+      "skadnetwork_id": "p78axxw29g.skadnetwork",
+      "entity_name": "A9.com, Inc",
+      "entity_domain": "amazon.com"
+    },
+    {
+      "skadnetwork_id": "ppxm28t8ap.skadnetwork",
+      "entity_name": "Smadex S.L.",
+      "entity_domain": "smadex.com"
+    },
+    {
+      "skadnetwork_id": "prcb7njmu6.skadnetwork",
+      "entity_name": "CrossInstall, Inc",
+      "entity_domain": "crossinstall.com"
+    },
+    {
+      "skadnetwork_id": "pu4na253f3.skadnetwork",
+      "entity_name": "PocketMath",
+      "entity_domain": "pocketmath.com"
+    },
+    {
+      "skadnetwork_id": "pwa73g5rt2.skadnetwork",
+      "entity_name": "Tremor",
+      "entity_domain": "tremorvideo.com"
+    },
+    {
+      "skadnetwork_id": "rx5hdcabgc.skadnetwork",
+      "entity_name": "Liquid M",
+      "entity_domain": "liquidm.com"
+    },
+    {
+      "skadnetwork_id": "s39g8k73mm.skadnetwork",
+      "entity_name": "Bidease",
+      "entity_domain": "bidease.com"
+    },
+    {
+      "skadnetwork_id": "t38b2kh725.skadnetwork",
+      "entity_name": "Lifestreet Corporation",
+      "entity_domain": "lifestreet.com"
+    },
+    {
+      "skadnetwork_id": "u679fj5vs4.skadnetwork",
+      "entity_name": "Fiksu DSP",
+      "entity_domain": "fiksu.com"
+    },
+    {
+      "skadnetwork_id": "uw77j35x4d.skadnetwork",
+      "entity_name": "The Trade Desk, Inc",
+      "entity_domain": "thetradedesk.com"
+    },
+    {
+      "skadnetwork_id": "v72qych5uu.skadnetwork",
+      "entity_name": "Appier Inc.",
+      "entity_domain": "appier.com"
+    },
+    {
+      "skadnetwork_id": "vcra2ehyfk.skadnetwork",
+      "entity_name": "PerformMCB",
+      "entity_domain": "performcb.com"
+    },
+    {
+      "skadnetwork_id": "w9q455wk68.skadnetwork",
+      "entity_name": "OOO Kontekstno-mediynye tekhnologii",
+      "entity_domain": "hybrid.ai"
+    },
+    {
+      "skadnetwork_id": "wzmmz9fp6w.skadnetwork",
+      "entity_name": "InMobi Pte. Ltd",
+      "entity_domain": "inmobi.com"
+    },
+    {
+      "skadnetwork_id": "wzmmz9fp6w.skadnetwork",
+      "entity_name": "InMobi",
+      "entity_domain": "inmobi.com"
+    },
+    {
+      "skadnetwork_id": "x44k69ngh6.skadnetwork",
+      "entity_name": "ClearPier, Inc.",
+      "entity_domain": "clearpier.com"
+    },
+    {
+      "skadnetwork_id": "x5854y7y24.skadnetwork",
+      "entity_name": "Target Media Ads LTD",
+      "entity_domain": "targetmedia-ads.com"
+    },
+    {
+      "skadnetwork_id": "x8uqf25wch.skadnetwork",
+      "entity_name": "Appier Inc.",
+      "entity_domain": "appier.com"
+    },
+    {
+      "skadnetwork_id": "xy9t38ct57.skadnetwork",
+      "entity_name": "So-net Media Networks",
+      "entity_domain": "so-netmedia.jp"
+    },
+    {
+      "skadnetwork_id": "yclnxrl5pm.skadnetwork",
+      "entity_name": "Jampp Ltd",
+      "entity_domain": "jampp.com"
+    },
+    {
+      "skadnetwork_id": "yrqqpx2mcb.skadnetwork",
+      "entity_name": "Epom Services Ltd",
+      "entity_domain": "epom.com"
+    },
+    {
+      "skadnetwork_id": "z4gj7hsk7h.skadnetwork",
+      "entity_name": "Lumate",
+      "entity_domain": "lumate.com"
+    }
+  ]
+}

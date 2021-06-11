@@ -1,0 +1,87 @@
+{
+  "company_name": "Vungle",
+  "company_domain": "vungle.com",
+  "company_address": "1255 Battery St #500, San Francisco, CA 94111",
+  "skadnetwork_ids": [
+    {
+      "skadnetwork_id": "22mmun2rn5.skadnetwork",
+      "entity_name": "Webeye",
+      "entity_domain": "webeyehk.com"
+    },
+    {
+      "skadnetwork_id": "2U9PT9HC89.skadnetwork",
+      "entity_name": "Remerge",
+      "entity_domain": "remerge.io"
+    },
+    {
+      "skadnetwork_id": "3RD42EKR43.skadnetwork",
+      "entity_name": "YouAppi",
+      "entity_domain": "youappi.com"
+    },
+    {
+      "skadnetwork_id": "4FZDC2EVR5.skadnetwork",
+      "entity_name": "Aarki",
+      "entity_domain": "aarki.com"
+    },
+    {
+      "skadnetwork_id": "4PFYVQ9L8R.skadnetwork",
+      "entity_name": "AdColony",
+      "entity_domain": "adcolony.com"
+    },
+    {
+      "skadnetwork_id": "5lm9lj6jb7.skadnetwork",
+      "entity_name": "LoopMe",
+      "entity_domain": "loopme.com"
+    },
+    {
+      "skadnetwork_id": "8s468mfl3y.skadnetwork",
+      "entity_name": "RTB House",
+      "entity_domain": "rtbhouse.com"
+    },
+    {
+      "skadnetwork_id": "c6k4g5qg8m.skadnetwork",
+      "entity_name": "Beeswax",
+      "entity_domain": "beeswax.com"
+    },
+    {
+      "skadnetwork_id": "GLQZH8VGBY.skadnetwork",
+      "entity_name": "Sabio",
+      "entity_domain": "sabio.inc"
+    },
+    {
+      "skadnetwork_id": "GTA9LK7P23.skadnetwork",
+      "entity_name": "Vungle",
+      "entity_domain": "vungle.com"
+    },
+    {
+      "skadnetwork_id": "mlmmfzh3r3.skadnetwork",
+      "entity_name": "Appreciate",
+      "entity_domain": "appreciate.mobi"
+    },
+    {
+      "skadnetwork_id": "n9x2a789qt.skadnetwork",
+      "entity_name": "MyTarget",
+      "entity_domain": "my.com"
+    },
+    {
+      "skadnetwork_id": "TL55SBB4FM.skadnetwork",
+      "entity_name": "Pubnative",
+      "entity_domain": "pubnative.net"
+    },
+    {
+      "skadnetwork_id": "v72qych5uu.skadnetwork",
+      "entity_name": "Appier",
+      "entity_domain": "appier.com"
+    },
+    {
+      "skadnetwork_id": "YCLNXRL5PM.skadnetwork",
+      "entity_name": "Jampp",
+      "entity_domain": "jampp.com"
+    },
+    {
+      "skadnetwork_id": "ydx93a7ass.skadnetwork",
+      "entity_name": "Adikteev",
+      "entity_domain": "adikteev.com"
+    }
+  ]
+}

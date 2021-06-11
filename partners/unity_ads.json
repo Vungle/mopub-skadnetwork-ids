@@ -1,0 +1,211 @@
+{
+    "company_name": "Unity Ads",
+    "company_domain": "https://unity.com/",
+    "company_address": "30 3rd Street San Francisco, CA 94103 United States",
+    "skadnetwork_ids": [
+        {
+            "skadnetwork_id": "238da6jt44.skadnetwork",
+            "entity_name": "BYTEMOD PTE. LTD-CN"
+        },
+        {
+            "skadnetwork_id": "cstr6suwn9.skadnetwork",
+            "entity_name": "Google LLC"
+        },
+        {
+            "skadnetwork_id": "4pfyvq9l8r.skadnetwork",
+            "entity_name": "AdColony, Inc."
+        },
+        {
+            "skadnetwork_id": "s39g8k73mm.skadnetwork",
+            "entity_name": "Bidease inc"
+        },
+        {
+            "skadnetwork_id": "3rd42ekr43.skadnetwork",
+            "entity_name": "YouAppi Inc"
+        },
+        {
+            "skadnetwork_id": "32z4fx6l9h.skadnetwork",
+            "entity_name": "Click Tech Limited"
+        },
+        {
+            "skadnetwork_id": "hs6bdukanm.skadnetwork",
+            "entity_name": "Criteo Corp"
+        },
+        {
+            "skadnetwork_id": "av6w8kgt66.skadnetwork",
+            "entity_name": "ScaleMonk Inc."
+        },
+        {
+            "skadnetwork_id": "c6k4g5qg8m.skadnetwork",
+            "entity_name": "Beeswax"
+        },
+        {
+            "skadnetwork_id": "v79kvwwj4g.skadnetwork",
+            "entity_name": "Kidoz Ltd."
+        },
+        {
+            "skadnetwork_id": "44jx6755aq.skadnetwork",
+            "entity_name": "Persona.ly LTD"
+        },
+        {
+            "skadnetwork_id": "5a6flpkh64.skadnetwork",
+            "entity_name": "REVX TECHNOLOGY PRIVATE LIMITED"
+        },
+        {
+            "skadnetwork_id": "tl55sbb4fm.skadnetwork",
+            "entity_name": "PubNative GMBH"
+        },
+        {
+            "skadnetwork_id": "3qy4746246.skadnetwork",
+            "entity_name": "Biga Bid Media Ltd"
+        },
+        {
+            "skadnetwork_id": "zq492l623r.skadnetwork",
+            "entity_name": "Yandex Europe AG"
+        },
+        {
+            "skadnetwork_id": "k674qkevps.skadnetwork",
+            "entity_name": "Pubmatic Inc"
+        },
+        {
+            "skadnetwork_id": "prcb7njmu6.skadnetwork",
+            "entity_name": "CrossInstall"
+        },
+        {
+            "skadnetwork_id": "lr83yxwka7.skadnetwork",
+            "entity_name": "Apptimus LTD"
+        },
+        {
+            "skadnetwork_id": "glqzh8vgby.skadnetwork",
+            "entity_name": "Sabio Mobile Inc."
+        },
+        {
+            "skadnetwork_id": "9t245vhmpl.skadnetwork",
+            "entity_name": "Moloco, Inc"
+        },
+        {
+            "skadnetwork_id": "kbd757ywx3.skadnetwork",
+            "entity_name": "Mintegral"
+        },
+        {
+            "skadnetwork_id": "mp6xlyr22a.skadnetwork",
+            "entity_name": "Clearpier Performance Inc."
+        },
+        {
+            "skadnetwork_id": "wg4vff78zm.skadnetwork",
+            "entity_name": "Bidmachine"
+        },
+        {
+            "skadnetwork_id": "22mmun2rn5.skadnetwork",
+            "entity_name": "BYTEMOD PTE. LTD-global"
+        },
+        {
+            "skadnetwork_id": "ydx93a7ass.skadnetwork",
+            "entity_name": "Adikteev SA"
+        },
+        {
+            "skadnetwork_id": "f38h382jlk.skadnetwork",
+            "entity_name": "Chartboost, Inc."
+        },
+        {
+            "skadnetwork_id": "ppxm28t8ap.skadnetwork",
+            "entity_name": "Smadex SL"
+        },
+        {
+            "skadnetwork_id": "488r3q3dtq.skadnetwork",
+            "entity_name": "ADTIMING TECHNOLOGY PTE. LTD."
+        },
+        {
+            "skadnetwork_id": "f73kdq92p3.skadnetwork",
+            "entity_name": "SPOTAD LTD"
+        },
+        {
+            "skadnetwork_id": "v72qych5uu.skadnetwork",
+            "entity_name": "Appier Inc. "
+        },
+        {
+            "skadnetwork_id": "t38b2kh725.skadnetwork",
+            "entity_name": "LifeStreet Corporation"
+        },
+        {
+            "skadnetwork_id": "5lm9lj6jb7.skadnetwork",
+            "entity_name": "LoopMe Ltd"
+        },
+        {
+            "skadnetwork_id": "3sh42y64q3.skadnetwork",
+            "entity_name": "Centro Inc."
+        },
+        {
+            "skadnetwork_id": "mlmmfzh3r3.skadnetwork",
+            "entity_name": "Triapodi Ltd."
+        },
+        {
+            "skadnetwork_id": "zmvfpc5aq8.skadnetwork",
+            "entity_name": "Maiden Marketing Pvt Ltd. "
+        },
+        {
+            "skadnetwork_id": "4dzt52r2t5.skadnetwork",
+            "entity_name": "Unity Technologies"
+        },
+        {
+            "skadnetwork_id": "578prtvx9j.skadnetwork",
+            "entity_name": "UNICORN Inc."
+        },
+        {
+            "skadnetwork_id": "424m5254lk.skadnetwork",
+            "entity_name": "Snap Inc."
+        },
+        {
+            "skadnetwork_id": "9rd848q2bz.skadnetwork",
+            "entity_name": "Criteo SA (Manage.com)"
+        },
+        {
+            "skadnetwork_id": "wzmmz9fp6w.skadnetwork",
+            "entity_name": "mkhoj Solutions Private Limited"
+        },
+        {
+            "skadnetwork_id": "yclnxrl5pm.skadnetwork",
+            "entity_name": "Jampp LTD"
+        },
+        {
+            "skadnetwork_id": "8s468mfl3y.skadnetwork",
+            "entity_name": "RTBHouse Pte LTD"
+        },
+        {
+            "skadnetwork_id": "4468km3ulz.skadnetwork",
+            "entity_name": "Realtime Technologies GmbH"
+        },
+        {
+            "skadnetwork_id": "4fzdc2evr5.skadnetwork",
+            "entity_name": "Aarki, Inc."
+        },
+        {
+            "skadnetwork_id": "7ug5zh24hu.skadnetwork",
+            "entity_name": "Liftoff Mobile, Inc."
+        },
+        {
+            "skadnetwork_id": "m8dbw4sv7c.skadnetwork",
+            "entity_name": "DATASEAT LTD"
+        },
+        {
+            "skadnetwork_id": "x44k69ngh6.skadnetwork",
+            "entity_name": "Clearpier Inc."
+        },
+        {
+            "skadnetwork_id": "w9q455wk68.skadnetwork",
+            "entity_name": "hybrid.ai"
+        },
+        {
+            "skadnetwork_id": "2u9pt9hc89.skadnetwork",
+            "entity_name": "Remerge GmbH"
+        },
+        {
+            "skadnetwork_id": "5tjdwbrq8w.skadnetwork",
+            "entity_name": "WEBEYE MOBILE(HK) LIMITED"
+        },
+        {
+            "skadnetwork_id": "f7s53z58qe.skadnetwork",
+            "entity_name": "Tencent"
+        }
+    ]
+}

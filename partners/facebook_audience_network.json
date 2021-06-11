@@ -1,0 +1,17 @@
+{
+  "company_name": "Facebook Audience Network",
+  "company_domain": "facebook.com/audiencenetwork/",
+  "company_address": "1601 Willow Rd, Menlo Park, CA 94025",
+  "skadnetwork_ids": [
+    {
+      "skadnetwork_id": "n38lu8286q.skadnetwork",
+      "entity_name": null,
+      "entity_domain": null
+    },
+    {
+      "skadnetwork_id": "v9wttpbfk9.skadnetwork",
+      "entity_name": null,
+      "entity_domain": null
+    }
+  ]
+}
